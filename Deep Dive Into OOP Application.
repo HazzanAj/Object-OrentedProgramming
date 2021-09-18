@@ -1,0 +1,40 @@
+# Object-Orented Programming Application
+This project was developed with a view of developing "An Online Educational Web Application" from scratch, covering usage of Object-Oriented Programming Language in Java 11,
+effeicient usage of Clean code and Design Pattern Princciples.
+
+TOOL AND TECHNOLOGY 
+Hibernate and Springboot For Backend
+Angular and React For Frontend
+Maven
+Java 11
+Postman API.
+
+PROJECT STRUCTURE
+Stage 1: Development of the Models using Design Parttern and Clean Code Principles
+struture the model into classes.
+
+CONCEPT:
+In this project I want to extensively corver OOP-programming which is what Java programming Language is actually all about, I have commented this code according to clean code principles for 
+proper understanding, I made use of loaded and unloaded constructures.
+This project covers thorough understanding and implementation of Encapsulation, Inheritance, Polymorphism, Super() method, why we need it and how it should be implemented.
+Finally an algorithm was developed which prompt the user from the Command Line (CLI) to input a particular data  and responded by displaying list of information based on data inputed.
+
+NEXT PHASE PLAN
+To develop Database using MySQL Database.
+Perform SQL on the Data.
+Use Hibernate to log the Data into the Database created.
+
+SECOND PHASE PLAN
+Create the Backend with Springboot Framework
+Create the springboot MVC and Respositories and Interface Connection to the Database
+
+THIRD PHASE PLAN
+Design and Develop the project APIs with Postman API.
+Create the Client User Interface (UI) with Angular Framework
+
+FINAL PHASE 
+Perform Springboot Authentication
+Software Testing on the project
+Host  the project on Firebase or Netlify.
+
+
